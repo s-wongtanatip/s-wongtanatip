@@ -1,4 +1,4 @@
-hi
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=143E7E&background=C7FDFF&center=true&vCenter=true&random=true&width=435&lines=Currently+learning+Full-Stack+!!!)](https://git.io/typing-svg)
 
 <!--
 **s-wongtanatip/s-wongtanatip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
