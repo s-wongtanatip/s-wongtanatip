@@ -13,4 +13,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,bootstrap,nodejs,postgres)](https://skillicons.dev)
 
-# <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-wongtanatip&show_icons=true&locale=en" alt="s-wongtanatip" /></p>
+<!---
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-wongtanatip&show_icons=true&locale=en" alt="s-wongtanatip" /></p>
+-->
