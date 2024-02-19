@@ -1,5 +1,8 @@
 <h1>👋🏻 Hi! I'm Peem</h1>
 
+- 🔭 I’m currently working on an **tech educational website**
+- 🌱 I’m currently learning **Backend Development (Node.js and Express)**
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,bootstrap,nodejs,postgres)](https://skillicons.dev)
 
 <!--
