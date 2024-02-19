@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peem</h1>
 <h3 align="center">A passionate developer from Bangkok</h3>
 
-- 🔭 I’m currently working on **an tech educational website and an e-commerce full-stack project**
+- 🔭 I’m currently working on **a tech educational website and an e-commerce full-stack project**
 
 - 🌱 I’m currently learning **backend development**
 
